@@ -1,4 +1,4 @@
-module github.com/akkuman/rotateproxy
+module github.com/mmioimm/rotateproxy
 
 go 1.17
 
